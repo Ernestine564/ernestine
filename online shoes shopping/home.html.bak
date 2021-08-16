@@ -1,0 +1,13 @@
+<font  color="#009900"><h1><center>Welcome to shoes online shopping</center><h1></font>
+<table  width="100%" >
+<tr>
+	<td width="50%"></td>
+	<td bgcolor="#999933"><h2>Home</td>
+	<td bgcolor="#999933"><h2>Product</td>
+	<td bgcolor="#999933"><h2>Contact us</td>
+	<td bgcolor="#999933"><h2>Buy now</td>
+</tr>
+</table><a herf=home.html>home</a>
+<img src="home.gif" width="60%" height="60%" border="0" alt="">
+<img src="Sneakers.jpg" width="39%" height="60%" border="0" alt="">
+<a herf="Women shoes.html">women shoes</a>

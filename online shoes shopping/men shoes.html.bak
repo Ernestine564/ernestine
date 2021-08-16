@@ -1,0 +1,49 @@
+
+<html>
+<head>
+<title>men shoeses</title>
+
+<script type="text/javavscript">
+function fine(){
+alert("Please enter your name");
+  } 
+</script>
+</head>
+<body>
+<table  width="100%">
+<tr>
+	<td width="70%"> <h1>Choose the size of shoes you want by clicking yes button</h1>
+	<td><h1>Buy now<h1></td>
+</tr>
+</table><table width="100%"
+<tr>
+	<td><img src="reverse shoes/download (4).jpg" width="200" height="251" border="0" alt=""></td><form><input type="button" value="Yes" onclick="fine()"/></form>
+	<td><img src="reverse shoes/download (2).jpg" width="275" height="183" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/download (4).jpg" width="200" height="251" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/download (5).jpg" width="225" height="225" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+</tr>
+<tr>
+	<td><img src="reverse shoes/download.jpg" width="265" height="190" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/images (3).jpg" width="254" height="198" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/images (4).jpg" width="272" height="185" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/images (5).jpg" width="275" height="183" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+</tr>
+<tr>
+	<td><img src="reverse shoes/images (7).jpg" width="225" height="225" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/images (6).jpg" width="248" height="203" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/images (8).jpg" width="275" height="183" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+	<td><img src="reverse shoes/download.jpg" width="265" height="190" border="0" alt=""><input type="button" value="Yes" onclick=""></td>
+</tr>
+</table>
+</body></html>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,248 @@
+
+<html>
+<head>
+<title>children shoeses</title>
+
+<script type="text/javascript">
+function call()
+{
+var name=prompt("The pair of shoes is 4000 rwf Please enter number of pairs yo want,size=5");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*4000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+<script type="text/javascript">
+function shoes()
+{
+var name=prompt("The pair of shoes is 6000 rwf Please enter number of pairs yo want,size=3");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*6000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+<script type="text/javascript">
+function third()
+{
+var name=prompt("The pair of shoes is 3500 rwf Please enter number of pairs yo want,size=3");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*3500+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+<script type="text/javascript">
+function four()
+{var name=prompt("The pair of shoes is 5000 rwf Please enter number of pairs yo want,size=2");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*5000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+<script type="text/javascript">
+function five()
+{
+var name=prompt("The pair of shoes is 6000 rwf Please enter number of pairs yo want,size=2");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*6000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+<script type="text/javascript">
+function six()
+{
+var name=prompt("The pair of shoes is 4000 rwf Please enter number of pairs yo want,size=3");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*4000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+<script type="text/javascript">
+function seven()
+{
+var name=prompt("The pair of shoes is 5000 rwf Please enter number of pairs yo want,size=2");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*5000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+<script type="text/javascript">
+function nine()
+{
+var name=prompt("The pair of shoes is 7000 rwf Please enter number of pairs yo want,size=4");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*7000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script><script type="text/javascript">
+function bebi()
+{
+var name=prompt("The pair of shoes is 5000 rwf Please enter number of pairs yo want,size=4");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*5000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script><script type="text/javascript">
+function ten()
+{
+var name=prompt("The pair of shoes is 6000 rwf Please enter number of pairs yo want,size=3");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*6000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script><script type="text/javascript">
+function know()
+{
+var name=prompt("The pair of shoes is 5000 rwf Please enter number of pairs yo want,size=5");
+if (name!=null && name!="")
+{
+var r=confirm("The  "+name+" pairs you choosen="+name*5000+" click ok to buy now");
+if (r==true)
+{
+document.write("<a href='regstiration.html'>fill the form of payment</a>");
+}
+else
+{
+return false
+}
+}
+}
+
+</script>
+</head>
+<body style="background-color:green">
+<table  width="100%">
+<tr>
+	<td width="70%"> <h1>Choose the size of shoes you want by clicking yes button</h1>
+	<td><h1>regstiration<h1></td>
+</tr>
+</table>
+<table>
+<tr>
+<td><img src="download (9).jpg" width="225" height="225" border="0" alt=""><form method="post" action="buy.html"><input type="button" value="Yes" onclick="call()"></form></td>
+<td><img src="oll/kid-shoes (2).jpg" width="220" height="220" border="0" alt=""><input type="button" value="Yes" onclick="shoes()"></td>
+<td><img src="oll/kid-shoes (3).jpg" width="220" height="220" border="0" alt=""><input type="button" value="Yes" onclick="third()"></td>
+<td><img src="oll/kid-shoes.jpg" width="220" height="220" border="0" alt=""><input type="button" value="Yes" onclick="four()"></td></tr><tr>
+
+<td><img src="oll/kids-pu-leather-shoes.jpg" width="220" height="220" border="0" alt=""><input type="button" value="Yes" onclick="five()"></td>
+<td><img src="oll/kids-shoes (1).jpg" width="260" height="260" border="0" alt=""><input type="button" value="Yes" onclick="six()"></td>
+<td><img src="oll/kids-shoes (2).jpg" width="220" height="220" border="0" alt=""><input type="button" value="Yes" onclick="seven()"></td>
+<td><img src="oll/kids-shoes (3).jpg" width="260" height="260" border="0" alt=""><input type="button" value="Yes" onclick="nine()"></td></tr><tr>
+
+<td><img src="oll/kids-shoes (4).jpg" width="220" height="220" border="0" alt=""><input type="button" value="Yes" onclick="bebi()"></td>
+<td><img src="oll/Kids-Shoes.jpg" width="220" height="220" border="0" alt=""><input type="button" value="Yes" onclick="ten()"></td>
+<td><img src="oll/kids-shoes-fashion-shoes-children-sneakers.jpg" width="260" height="260" border="0" alt=""><input type="button" value="Yes" onclick="know()"></td></tr>
+<a href="oll/kids"></a>
+</tr>
+</table>
+</body></html>
+
+
+
+
+
+
+
+
+
+
+
